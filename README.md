@@ -24,7 +24,7 @@ Incognito Call An Android tool designed for multiple functionalities, leveraging
 - 👁‍🗨 New fully working Android **11** , **12** , **13** 
 - 👻 First time on 🌐 ever 
 
-## INCOGNITO CALL PAID VERSION FEATURES ( For only $10!) 
+## INCOGNITO CALL PAID VERSION FEATURES ( For only ~~$25~~ $18!) 
 - 🧲 All Features That Free Version Contains +
 - 📲 recive real time messages
 - 👹 control online/offline both working (bot / Sms) 
