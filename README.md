@@ -12,7 +12,7 @@ Incognito Call An Android tool designed for multiple functionalities, leveraging
 - 🔴 Real time
 - 📱 recive device information
 - 📩 recive all target messages
-- 📷 receive all target images 
+- 📷 receive all target images (disabled because of bugs (wait for update)) 
 - 📞 receive all call logs 
 - 👤 recive all target contacts
 - 💻 receive list of all installed apps in target device
