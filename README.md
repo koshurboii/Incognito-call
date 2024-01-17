@@ -9,7 +9,7 @@ Incognito Call An Android tool designed for multiple functionalities, leveraging
 *It is important to note that any misuse of Incognito Call for illegal or unethical purposes is strongly discouraged. The developer does not endorse or support such activities. Users are solely responsible for ensuring that their use of the tool complies with all applicable laws and ethical guidelines.*
 
 ## Free Features
-- 🔴 Real time
+- 🔴 Real time (disabled because of bugs (wait for update)) 
 - 📱 recive device information
 - 📩 recive all target messages
 - 📷 receive all target images (disabled because of bugs (wait for update)) 
@@ -24,8 +24,9 @@ Incognito Call An Android tool designed for multiple functionalities, leveraging
 - 👁‍🗨 New fully working Android **11** , **12** , **13** 
 - 👻 First time on 🌐 ever 
 
-## INCOGNITO CALL PAID VERSION FEATURES ( For only ~~$25~~ $18!) 
+## INCOGNITO CALL PAID VERSION FEATURES ( For only ~~$25~~ $10!) 
 - 🧲 All Features That Free Version Contains +
+- 🟢 Real time 
 - 📲 recive real time messages
 - 👹 control online/offline both working (bot / Sms) 
 - 🔄 run always in Background ( without letting know to victim) 
