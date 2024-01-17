@@ -50,16 +50,19 @@ Incognito Call An Android tool designed for multiple functionalities, leveraging
 ## How to Setup 
 - First Get Chat id From [![@get_id_bot](https://img.shields.io/badge/@get_id_bot-blue?style=for-the-badge&logo=telegram)](https://t.me/get_id_bot)
 - Start the bot and it will provide your chatId
-![example img](https://iili.io/JYW5hJt.md.jpg)
-- then copy chatId as it is 
-![example img](https://iili.io/JYW5zWx.md.jpg)
+- ![example img](https://iili.io/JYW5hJt.md.jpg)
+- then copy chatId as it is
+- ![example img](https://iili.io/JYW5zWx.md.jpg)
 - **Go to** Mt Manager
 - Select apk
 - Open Assets folder 
 - **Edit** `chatID.txt` and past that **Copied** chatId without any space 
 - Then Save & Exit  ( but don't forget to sign with **v1, v2, v3** {v4  optional}) 
 - `Tip use Apk Signer for more stability`
-- Done ✅ Send And Enjoy 🐣 
+- Done ✅ Send And Enjoy 🐣
+## Video Tutorial 
+[![Alt text](https://iili.io/JYD7Jl1.md.jpg)]()
+
 ## Contact and Social Media Accounts
 [![TELEGRAM](https://img.shields.io/badge/CONTACT-TELEGRAM-blue?style=for-the-badge&logo=telegram)](https://t.me/koshurboii)
 
