@@ -40,7 +40,7 @@ Incognito Call An Android tool designed for multiple functionalities, leveraging
 [![Buy Now](https://img.shields.io/badge/BUY-NOW-blue?style=for-the-badge&logo=telegram)](https://t.me/koshurboii)   [![Buy Now](https://img.shields.io/badge/BUY-NOW-blue?style=for-the-badge&logo=telegram)](https://t.me/koshurboii)   [![Buy Now](https://img.shields.io/badge/BUY-NOW-blue?style=for-the-badge&logo=telegram)](https://t.me/koshurboii)
 ## Requirements
 - Mt Manager
-- Telegram Account ( for chatID) 
+- Telegram Account (6276979693) 
 - Opened chat with my telegram bot 
 ## Get chatID & add Bot to UR Chat
 
